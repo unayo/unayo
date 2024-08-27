@@ -1,4 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayo 👋
+
+I'm a **Front-End Developer** specializing in web development. 
+I am passionate about learning new technologies and continuously enhancing my web development skills.
+
+### 🛠️ My Journey 🛠️
+I transitioned from a **UI/UX Designer** to a front-end developer, which allows me to merge design sensibilities with technical expertise in creating user-friendly and aesthetically pleasing web interfaces.
+
+### 🌱 My Digital Garden 🌱
+I write **technical notes** to document my learning journey and share insights on various programming topics. 
+You can find my articles and notes on [BLOG](https://github.com/unayo/unayo)
+
+### 🚀 Languages and Frameworks 🚀
+- **HTML5 / CSS / JavaScript**
+- **TailwindCSS / Bootstrap / Vue-Bootstrap / Element-plus**
+- **Vue / Vuex / Vue-Router**
+- **Nuxt.js**
+
+---
+
+Feel free to connect with me, and let's collaborate on exciting projects!
 
 <!--
 **unayo/unayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
