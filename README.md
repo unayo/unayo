@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Ayo 👋
 Frontend Engineer — Vue 3 / Nuxt 4 
 
-I'm a **Front-End Developer** specializing in web development. 
-I am passionate about learning new technologies and continuously enhancing my web development skills.
-
-### 🛠️ My Journey 🛠️
-I transitioned from a **UI/UX Designer** to a front-end developer, which allows me to merge design sensibilities with technical expertise in creating user-friendly and aesthetically pleasing web interfaces.
-
 ### 🚀Tech Stack 🚀
 Framework: Vue 3 · Vue 2 · Nuxt 4 · Nuxt 2
 Language: TypeScript · JavaScript (ES6+)
